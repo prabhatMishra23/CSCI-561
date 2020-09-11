@@ -1,0 +1,7 @@
+1
+A(Me)
+4
+Phd(x) => HQ(x)
+HQ(x) => Rich(x)
+~Phd(x) => A(b)
+Rich(x) => A(b)
